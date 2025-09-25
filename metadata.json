@@ -1,0 +1,5 @@
+{
+  "name": "Interactive 3D Globe",
+  "description": "A 3D interactive digital map of the world. Countries are displayed in different colors, and clicking on a country reveals its name. Built with React, react-globe.gl, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
